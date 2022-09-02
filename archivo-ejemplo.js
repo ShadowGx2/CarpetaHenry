@@ -4,3 +4,9 @@ total
 
 sum = var + var2 
 console.log
+value.value
+dark spawn
+asdasdad
+asdasdasda
+asdasdasd
+
