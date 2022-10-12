@@ -16,3 +16,7 @@ asd
 asd
 asdasd
 Esto es uuna prueba de la modificaci`on del archivo de ejemplo desde nano a traves de la terminal
+asdadasd
+asdasdasd
+asdasdasd
+
